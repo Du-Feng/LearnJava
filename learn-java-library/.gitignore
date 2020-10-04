@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/logs/logback.log
+/src/test/output/temp.xlsx
+/src/test/output/temp2.xlsx
