@@ -131,6 +131,7 @@ jar path 示例: add jar: C:\Users\fdu\.m2\repository\ch\qos\logback\logback-cla
 
 # Joda Money
 在 pom.xml 中添加如下依赖：
+注：usertype.core 是用来在 JPA (比如Hibernate) 中做类型转换用的，此示例中不演示。
 
         <dependency>
             <groupId>org.joda</groupId>
