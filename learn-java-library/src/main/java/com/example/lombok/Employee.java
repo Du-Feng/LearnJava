@@ -16,5 +16,5 @@ public class Employee {
     private Integer employeeId;
     private String name;
     private String company;
-    private String emailId;
+    private String email;
 }
