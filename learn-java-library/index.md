@@ -128,3 +128,17 @@ jar path 示例: add jar: C:\Users\fdu\.m2\repository\ch\qos\logback\logback-cla
         </dependency>
 
 * Use Lombok annotation to write your classes
+
+# Joda Money
+在 pom.xml 中添加如下依赖：
+
+        <dependency>
+            <groupId>org.joda</groupId>
+            <artifactId>joda-money</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jadira.usertype</groupId>
+            <artifactId>usertype.core</artifactId>
+            <version>7.0.0.CR1</version>
+        </dependency>
